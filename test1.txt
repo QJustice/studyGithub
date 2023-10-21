@@ -4,3 +4,4 @@ test_ssh_1
 test_ssh_2
 test_ssh_3
 test_tower_1
+test_ssh_4
