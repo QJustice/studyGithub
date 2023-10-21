@@ -7,3 +7,4 @@ test_tower_1
 test_ssh_4
 test_ssh_5
 test_ssh_6
+test_ssh_7
